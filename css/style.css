@@ -300,9 +300,9 @@ h2 {
 
 .price_content {
   -webkit-box-flex: 0;
-  -webkit-flex: 0 16.666666666666668%;
-  -ms-flex: 0 16.666666666666668%;
-  flex: 0 16.666666666666668%;
+  -webkit-flex: 0 18%;
+  -ms-flex: 0 18%;
+  flex: 0 18%;
 }
 
 .text-block {
